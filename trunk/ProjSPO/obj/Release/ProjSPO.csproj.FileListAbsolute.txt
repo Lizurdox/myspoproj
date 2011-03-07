@@ -1,0 +1,8 @@
+C:\Users\Shtaket\Documents\Visual Studio 2008\Projects\ProjSPO\ProjSPO\bin\Release\ProjSPO.exe
+C:\Users\Shtaket\Documents\Visual Studio 2008\Projects\ProjSPO\ProjSPO\bin\Release\ProjSPO.pdb
+C:\Users\Shtaket\Documents\Visual Studio 2008\Projects\ProjSPO\ProjSPO\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Shtaket\Documents\Visual Studio 2008\Projects\ProjSPO\ProjSPO\obj\Release\ProjSPO.Form1.resources
+C:\Users\Shtaket\Documents\Visual Studio 2008\Projects\ProjSPO\ProjSPO\obj\Release\ProjSPO.Properties.Resources.resources
+C:\Users\Shtaket\Documents\Visual Studio 2008\Projects\ProjSPO\ProjSPO\obj\Release\ProjSPO.csproj.GenerateResource.Cache
+C:\Users\Shtaket\Documents\Visual Studio 2008\Projects\ProjSPO\ProjSPO\obj\Release\ProjSPO.exe
+C:\Users\Shtaket\Documents\Visual Studio 2008\Projects\ProjSPO\ProjSPO\obj\Release\ProjSPO.pdb
