@@ -1,8 +1,0 @@
-C:\Users\Shtaket\Documents\Visual Studio 2008\Projects\ProjSPO\ProjSPO\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Shtaket\Documents\Visual Studio 2008\Projects\ProjSPO\ProjSPO\obj\Debug\ProjSPO.Form1.resources
-C:\Users\Shtaket\Documents\Visual Studio 2008\Projects\ProjSPO\ProjSPO\obj\Debug\ProjSPO.Properties.Resources.resources
-C:\Users\Shtaket\Documents\Visual Studio 2008\Projects\ProjSPO\ProjSPO\obj\Debug\ProjSPO.csproj.GenerateResource.Cache
-C:\Users\Shtaket\Documents\Visual Studio 2008\Projects\ProjSPO\ProjSPO\bin\Debug\ProjSPO.exe
-C:\Users\Shtaket\Documents\Visual Studio 2008\Projects\ProjSPO\ProjSPO\bin\Debug\ProjSPO.pdb
-C:\Users\Shtaket\Documents\Visual Studio 2008\Projects\ProjSPO\ProjSPO\obj\Debug\ProjSPO.exe
-C:\Users\Shtaket\Documents\Visual Studio 2008\Projects\ProjSPO\ProjSPO\obj\Debug\ProjSPO.pdb
